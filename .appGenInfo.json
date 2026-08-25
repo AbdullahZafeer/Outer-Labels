@@ -1,0 +1,29 @@
+{
+  "generationParameters": {
+    "generationDate": "Wed Aug 19 2026 12:28:56 GMT+0000 (Coordinated Universal Time)",
+    "generatorPlatform": "SAP Business Application Studio",
+    "serviceType": "SAP System (ABAP On-Premise)",
+    "metadataFilename": "",
+    "serviceUrl": "https://my436167.s4hana.cloud.sap/sap/opu/odata4/sap/zqm_olabel_sb/srvd/sap/zqm_olabel_sd/0001/",
+    "appName": "zqmolabel",
+    "appTitle": "Labels (Sample, Approved, Rejected, Hold)",
+    "appDescription": "",
+    "appNamespace": "zqm",
+    "ui5Theme": "sap_horizon",
+    "ui5Version": "1.148.8",
+    "enableEslint": true,
+    "enableTypeScript": true,
+    "showMockDataInfo": true,
+    "generatorVersion": "1.31.0",
+    "template": "List Report Page V4",
+    "generatorName": "SAP Fiori Application Generator",
+    "entityRelatedConfig": [
+      {
+        "type": "Main Entity",
+        "value": "LabelParameter"
+      }
+    ],
+    "launchText": "To launch the generated application, run the following from the generated application root folder:\n\n```\n    npm start\n```",
+    "valueHelpDownloaded": true
+  }
+}
